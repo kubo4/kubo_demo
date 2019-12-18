@@ -4,7 +4,7 @@ Learn how to use package development tools with Hanbo using Kubo model as an exa
 """
 
 # Add imports here
-from .test_kubo_demo import *
+from .test_kubo_demo import Kubo
 
 # Handle versioneer
 from ._version import get_versions
